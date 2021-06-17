@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-widget-starter
+module https://github.com/garci1294/wowchemy-widget-twitter-feed
 
 go 1.15
